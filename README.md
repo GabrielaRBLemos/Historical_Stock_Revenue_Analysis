@@ -1,2 +1,2 @@
-# Historical_Stock_Revenue_Analysis
+# Historical Stock Revenue Analysis
 Analysis of historical stock/revenue data using Jupyter
