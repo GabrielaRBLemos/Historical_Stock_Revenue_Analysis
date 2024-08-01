@@ -18,6 +18,11 @@ Make sure you have the following Python packages installed:
 - `pandas`
 - `matplotlib`
 
+You can install these packages using pip:
+
+```bash
+pip install yfinance pandas matplotlib
+
 ## License
 This project is licensed under the GPL-3.0 license - see the LICENSE file for details.
 
