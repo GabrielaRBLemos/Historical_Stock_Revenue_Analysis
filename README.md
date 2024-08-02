@@ -16,12 +16,13 @@ Make sure you have the following Python packages installed:
 
 - `yfinance`
 - `pandas`
+- `numpy`
 - `matplotlib`
 
 You can install these packages using pip:
 
 ```bash
-pip install yfinance pandas matplotlib
+pip install yfinance pandas numpy matplotlib
 ```
 
 ## License
