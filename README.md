@@ -18,11 +18,12 @@ Make sure you have the following Python packages installed:
 - `pandas`
 - `numpy`
 - `matplotlib`
+- `dateutil`
 
 You can install these packages using pip:
 
 ```bash
-pip install yfinance pandas numpy matplotlib
+pip install yfinance pandas numpy matplotlib python-dateutil
 ```
 
 ## License
