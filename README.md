@@ -2,12 +2,13 @@
 
 ## Overview
 
-This project analyzes historical stock data to provide insights into stock performance . Currently it calculates daily returns and stock volatility.
+This project analyzes historical stock data to provide insights into stock and portfolio performance.
 
 ## Features
 - Automatically identifies the benchmark market indexes based on the stock's country.
 - Calculate daily returns, expected returns, and stock volatility.
-- Plot Adjusted Close Prices and Daily Returns graphics.
+- Plot adjusted close prices, cumulative returns and daily returns graphs.
+- Calculates portfolio returns
 - CSV file containing ticker symbols for benchmark market indexes for several countries.
 
 ## Prerequisites
